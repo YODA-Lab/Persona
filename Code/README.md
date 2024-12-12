@@ -11,7 +11,7 @@
 - **HM2**: An enhanced version of Hunter’s HM1 that incorporates argument structure to improve the update of probability distributions, used as another baseline.
   
 
-For each repository, run the following command in the terminal to generate the results:
+For each folder, run the following command in the terminal to generate the results:
 
 ```js
 bash automatic.sh
